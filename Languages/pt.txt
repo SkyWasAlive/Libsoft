@@ -1,0 +1,80 @@
+##############################################
+#   Language file Portuguese
+#   Language_code: pt
+##############################################
+
+string_id	string_value
+###############################################
+# MainMenu strings
+###############################################
+splash_main_text	Selecione uma das seguintes redes.
+splash_btn_open_file	Abrir rede
+splash_btn_new_network	Nova rede
+splash_btn_exit	Sair do Aplicativo
+
+###############################################
+# networkScreen strings
+###############################################
+network_scene_file_menu	Ficheiro
+network_scene_file_menu_close	Fechar rede
+network_scene_file_menu_save_network	Guardar Rede
+network_scene_file_menu_save_settings	Configuração
+network_scene_new_network_title	Nova Rede
+network_scene_edit_menu	Editar
+network_scene_edit_menu_undo	Anular
+network_scene_edit_menu_redo	Refazer
+network_scene_edit_menu_copy	Copiar
+network_scene_edit_menu_cut	Cortar
+network_scene_edit_menu_paste	Colar
+network_scene_help_menu	Ajuda
+network_scene_help_menu_about	Sobre
+
+###############################################
+# mapTab strings
+###############################################
+network_scene_map_tab_name	Mapa
+network_scene_map_tab_theme	Estilo:
+network_scene_map_tab_theme_dark	Escuro
+network_scene_map_tab_theme_map	Cartógrafo
+network_scene_map_tab_theme_satellite	Satélite
+network_scene_map_tab_theme_terrain	Terreno
+network_scene_map_tab_smart_strategy	Usar layout automático?
+network_scene_map_tab_change_current_theme_backdrop	Alterar background do tema atual.
+
+
+###############################################
+# StopTab strings
+###############################################
+network_scene_stop_tab_name	Paragens
+network_scene_stop_tab_add	Adicionar nova paragem
+network_scene_stop_tab_remove	Remover nova paragem
+
+###############################################
+# RoutesTab strings
+###############################################
+network_scene_routes_tab_name	Rotas
+
+###############################################
+# TripTab strings
+###############################################
+network_scene_trip_tab_name	Viagem
+
+
+###############################################
+# mapBackdrop codes
+###############################################
+network_scene_map_tab_theme_dark_code	dark
+network_scene_map_tab_theme_map_code	map
+network_scene_map_tab_theme_satellite_code	satellite
+network_scene_map_tab_theme_terrain_code	terrain
+
+###############################################
+# Exception strings
+###############################################
+exception_file_already_in_memory	Ficheiro já existente em memória
+exception_file_doesnt_exist	Ficheiro não existe
+exception_file_not_in_memory	File não aberto em memória
+exception_invalid_vertex	Vertice inálido
+exception_invalid_edge	Limite inválido
+exception_invalid_language_code	Código de idoma inixestente
+exception_invalid_language_string	String Inexistente
