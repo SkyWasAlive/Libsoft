@@ -1,10 +1,10 @@
 package pt.joao.Libsoft.exceptions;
 
-import pt.pa.utils.LanguageManager;
+import pt.joao.Libsoft.utils.LanguageManager;
 
 public class LanguageStringNotFound extends RuntimeException{
     public LanguageStringNotFound() {
-        super(LanguageManager.getInstance().getString("exception_invalid_language_string"));
+        super(LanguageManager.getInstance().getString("blank"));
     }
 
     public LanguageStringNotFound(String message) {

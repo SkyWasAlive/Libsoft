@@ -1,6 +1,6 @@
 package pt.joao.Libsoft.exceptions;
 
-import pt.pa.utils.LanguageManager;
+import pt.joao.Libsoft.utils.LanguageManager;
 
 /**
  * TODO
@@ -12,6 +12,6 @@ public class FileDoesntExists extends RuntimeException{
     }
 
     public FileDoesntExists() {
-        super(LanguageManager.getInstance().getString("exception_file_doesnt_exist"));
+        super(LanguageManager.getInstance().getString("blank"));
     }
 }
